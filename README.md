@@ -16,15 +16,15 @@ pip install pymongo fastapi uvicorn
 > [!NOTE]
 > ### Project Structure
 > Books_record_MongoDB_FastAPI/
->   ├── config/
->   |     ├──db.py
->   ├── models/
->   |     ├──user.py
->   ├── routes/
->   |     ├──user.py
->   ├── schemas/
->   |     ├──user.py
->   ├── index.py
+>  ├── config/
+   |     ├──db.py
+   ├── models/
+   |     ├──user.py
+   ├── routes/
+   |     ├──user.py
+   ├── schemas/
+   |     ├──user.py
+   ├── index.py
 
 ### Run the application
 ```bash
