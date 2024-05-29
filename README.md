@@ -13,8 +13,8 @@ RESTful API for efficient book record management using MongoDB and FASTAPI.
 pip install pymongo fastapi uvicorn
  ```
 
-> [!NOTE]
-> ### Project Structure
+
+### Project Structure
 ```
 Books_record_MongoDB_FastAPI/
    ├── config/
